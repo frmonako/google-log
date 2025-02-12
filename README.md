@@ -1,2 +1,3 @@
-# google-log
-PHP Google login that saves the info to your database
+# PHP Google Login Form That Saves Login Data To Database
+
+'''composer require google/clientapi'''
